@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp.Output", "TestConsoleApp.Output\TestConsoleApp.Output.csproj", "{FF78BD74-69D8-4067-B5FC-7EB4C735F663}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestConsoleApp.Output", "TestConsoleApp.Output\TestConsoleApp.Output.csproj", "{FF78BD74-69D8-4067-B5FC-7EB4C735F663}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp.VariablesDemo", "TestConsoleApp.VariablesDemo\TestConsoleApp.VariablesDemo.csproj", "{03F58620-373C-4879-BFE4-8CABF72526C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestConsoleApp.VariablesDemo", "TestConsoleApp.VariablesDemo\TestConsoleApp.VariablesDemo.csproj", "{03F58620-373C-4879-BFE4-8CABF72526C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp.UserInputDemo", "TestConsoleApp.UserInputDemo\TestConsoleApp.UserInputDemo.csproj", "{DB55827F-E5A7-4FF3-B69B-B88C3B00E851}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestConsoleApp.UserInputDemo", "TestConsoleApp.UserInputDemo\TestConsoleApp.UserInputDemo.csproj", "{DB55827F-E5A7-4FF3-B69B-B88C3B00E851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Operators", "ConsoleApp.Operators\ConsoleApp.Operators.csproj", "{72038775-DC05-4B53-A19D-003B2C7DFF08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{DB55827F-E5A7-4FF3-B69B-B88C3B00E851}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB55827F-E5A7-4FF3-B69B-B88C3B00E851}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB55827F-E5A7-4FF3-B69B-B88C3B00E851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72038775-DC05-4B53-A19D-003B2C7DFF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72038775-DC05-4B53-A19D-003B2C7DFF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72038775-DC05-4B53-A19D-003B2C7DFF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72038775-DC05-4B53-A19D-003B2C7DFF08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
