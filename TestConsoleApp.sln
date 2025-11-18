@@ -13,9 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Operators", "Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.ConditionsAndDecisions", "ConsoleApp.ConditionsAndDecisions\ConsoleApp.ConditionsAndDecisions.csproj", "{356AD26A-9573-41A3-90E8-19EB9FE352FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.SampleCalculator", "ConsoleApp.SampleCalculator\ConsoleApp.SampleCalculator.csproj", "{03C0544C-0AF6-46F5-B3DC-0D995417C95B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.SampleCalculator", "ConsoleApp.SampleCalculator\ConsoleApp.SampleCalculator.csproj", "{03C0544C-0AF6-46F5-B3DC-0D995417C95B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Loops", "ConsoleApp.Loops\ConsoleApp.Loops.csproj", "{9275A1FB-6836-4A82-A20B-A35AA0BF0DB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Loops", "ConsoleApp.Loops\ConsoleApp.Loops.csproj", "{9275A1FB-6836-4A82-A20B-A35AA0BF0DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.StringManipulation", "ConsoleApp.StringManipulation\ConsoleApp.StringManipulation.csproj", "{5290A85A-C04B-4739-81EE-CC5EEA2C1E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.DateTimeManipulations", "ConsoleApp.DateTimeManipulations\ConsoleApp.DateTimeManipulations.csproj", "{5165CA42-5603-4884-B826-4D881AEE320A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{9275A1FB-6836-4A82-A20B-A35AA0BF0DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9275A1FB-6836-4A82-A20B-A35AA0BF0DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9275A1FB-6836-4A82-A20B-A35AA0BF0DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5290A85A-C04B-4739-81EE-CC5EEA2C1E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5290A85A-C04B-4739-81EE-CC5EEA2C1E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5290A85A-C04B-4739-81EE-CC5EEA2C1E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5290A85A-C04B-4739-81EE-CC5EEA2C1E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5165CA42-5603-4884-B826-4D881AEE320A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5165CA42-5603-4884-B826-4D881AEE320A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5165CA42-5603-4884-B826-4D881AEE320A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5165CA42-5603-4884-B826-4D881AEE320A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
