@@ -38,3 +38,4 @@ foreach (int g in grades)
 {
     Console.WriteLine(g);
 }
+grades.Remove(45);

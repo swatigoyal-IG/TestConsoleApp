@@ -21,11 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.StringManipulati
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.DateTimeManipulations", "ConsoleApp.DateTimeManipulations\ConsoleApp.DateTimeManipulations.csproj", "{5165CA42-5603-4884-B826-4D881AEE320A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Methods", "ConsoleApp.Methods\ConsoleApp.Methods.csproj", "{B74F5093-8444-49E5-BDD3-F7DA41A509E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Methods", "ConsoleApp.Methods\ConsoleApp.Methods.csproj", "{B74F5093-8444-49E5-BDD3-F7DA41A509E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Arrays", "ConsoleApp.Arrays\ConsoleApp.Arrays.csproj", "{8290EA54-121F-4786-8CB0-8EC9A39487AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Arrays", "ConsoleApp.Arrays\ConsoleApp.Arrays.csproj", "{8290EA54-121F-4786-8CB0-8EC9A39487AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Lists", "ConsoleApp.Lists\ConsoleApp.Lists.csproj", "{5226A188-772A-4F7F-80CB-75A5D3B5EFBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Lists", "ConsoleApp.Lists\ConsoleApp.Lists.csproj", "{5226A188-772A-4F7F-80CB-75A5D3B5EFBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.ClassesDemo", "ConsoleApp.ClassesDemo\ConsoleApp.ClassesDemo.csproj", "{4F6E4094-3189-45D8-B53B-A609CDBDE4DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{5226A188-772A-4F7F-80CB-75A5D3B5EFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5226A188-772A-4F7F-80CB-75A5D3B5EFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5226A188-772A-4F7F-80CB-75A5D3B5EFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6E4094-3189-45D8-B53B-A609CDBDE4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6E4094-3189-45D8-B53B-A609CDBDE4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6E4094-3189-45D8-B53B-A609CDBDE4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6E4094-3189-45D8-B53B-A609CDBDE4DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
